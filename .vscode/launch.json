@@ -54,7 +54,7 @@
             "name": "Debugar o CalculaHashEmDiretorio",
             "script": "${workspaceRoot}/aula2/CalculaHashEmDiretorio.ps1",
             "cwd": "${workspaceRoot}",
-            "args": ["-diretorio C:/Users/adria/Desktop/powershell"]
+            "args": ["-diretorio C:/Users/adrianomagalhaes/Desktop/powershell"]
         },
     ]
 }
